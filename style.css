@@ -1,0 +1,32 @@
+h1.rojo{
+    color: red;
+}
+
+header{
+text-align: center;
+
+}
+
+span.azul{
+    display: inline-block;
+    background-color: blue;
+    padding: 205px;
+}
+
+span.roig{
+    display: inline-block;
+    background-color: red;
+padding: 205px;
+}
+
+span.amarillo{
+display: inline-block;
+    background-color: yellow;
+    padding: 206px;
+}
+
+span.verde{
+    display: block;
+    padding-bottom: 30px;
+    background-color: green;
+}
