@@ -10,19 +10,19 @@ text-align: center;
 span.azul{
     display: inline-block;
     background-color: blue;
-    padding: 255px;
+    padding: 305px;
 }
 
 span.roig{
     display: inline-block;
     background-color: red;
-padding: 255px;
+padding: 305px;
 }
 
 span.amarillo{
 display: inline-block;
     background-color: yellow;
-    padding: 256px;
+    padding: 306px;
 }
 
 span.verde{
